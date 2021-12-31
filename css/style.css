@@ -476,13 +476,14 @@ header{
     padding-top: 2em;
     padding-bottom: 2em;
     z-index: 1;
+    text-decoration: underline;
+
 }
 
 .emailhold a {
     color: #8999a0;
     font-size: 1.6em;
     font-weight: 800;
-    text-decoration: underline;
 }
 
 

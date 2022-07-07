@@ -1940,6 +1940,21 @@ textarea.form-message{
 
 @media (max-width: 480px) {
 
+	.hero-title1, .hero-title2 {
+		font-size: 80px;}
+
+
+	.timeless {
+		font-size: 126px;}
+ 
+
+
+
+	.emailhold a {
+		font-size: 30px;}
+}
+	
+
     header {
         padding: 16px;
     }
@@ -2266,6 +2281,18 @@ font-size: 30px;
 
 
 @media (max-width: 575px) {
+	.hero-title1, .hero-title2 {
+		font-size: 80px;}
+
+
+	.timeless {
+		font-size: 126px;}
+ 
+
+	.emailhold a {
+		font-size: 30px;}
+}
+
 
     .big-title {
         font-size: 80px;
@@ -2433,6 +2460,20 @@ font-size: 30px;
 
 
 @media (max-width: 374px) {
+	.hero-title1, .hero-title2 {
+		font-size: 80px;}
+
+
+	.timeless {
+		font-size: 126px;}
+ 
+
+	.emailhold a {
+		font-size: 30px;}
+}
+
+	
+	
     .client1 figure img {
         width: 4em;
     }

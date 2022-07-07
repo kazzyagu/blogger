@@ -2141,6 +2141,17 @@ textarea.form-message{
 
 
 @media (max-width: 360px) {
+	
+	.hero-title1, .hero-title2 {
+		font-size: 80px;}
+
+	.timeless {
+		font-size: 126px;}
+
+	.emailhold a {
+		font-size: 30px;}
+}
+
 
     .big-title {
         font-size: 40px;

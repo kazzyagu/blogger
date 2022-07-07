@@ -1647,6 +1647,10 @@ textarea.form-message{
     header {
         padding: 22px;
     }
+	
+	.hero-title {
+	font-size: 12px;
+	}
 
     .home .home-content .hero-title {
         font-size: 110px;
